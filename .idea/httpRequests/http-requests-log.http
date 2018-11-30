@@ -1,0 +1,21 @@
+POST http://172.24.89.245/test/test
+Content-Type: application/json
+
+{   "_id":"12334",   "castType":"路测" }
+
+###
+
+POST http://172.24.89.245/test/test
+Content-Type: application/json
+
+{   "_id":"12334",   "castType":"路测" }
+
+###
+
+DELETE http://47.99.64.217/test/test
+Content-Type: application/json
+
+<> 2018-10-22T060220.301.html
+
+###
+
